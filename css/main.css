@@ -22,3 +22,18 @@ body {
   margin: 0;
   padding: 0;
 }
+
+.img-flex {
+  width: 100%;
+  display: block;
+}
+
+.unit {
+  background-color: pink;
+  border: 1px dashed hotpink;
+}
+
+.gutter {
+  padding-left: 1.5em;
+  padding-right: 1.5em;
+}
